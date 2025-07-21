@@ -1,7 +1,7 @@
-# 🍲 Cookbook 📖
+# 🍲 Receitoteca 📖
 
 <div align="center">
-    <a href="https://pi-etro.github.io/cookbook">https://pi-etro.github.io/cookbook</a>
+    <a href="https://pi-etro.github.io/receitoteca">https://pi-etro.github.io/receitoteca</a>
 </div>
 <br>
 
