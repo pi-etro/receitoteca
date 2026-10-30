@@ -1,3 +1,44 @@
 [
-{"title":"Feijão","category":"Caldos e Sopas","veggie":"✓","description":"Feijão carioca para o dia a dia, normalmente acompanhado de arroz.","salty":"✓","htmlfile":"feijao.html","size":"10 porções","time":"1h 30 min"}
+{"title":"Arroz branco da Elena","category":"Acompanhamentos","author":"Pietro","htmlfile":"arroz-branco-elena.html"}
+,{"title":"Arroz branco","category":"Acompanhamentos","author":"Beatriz","htmlfile":"arroz-branco.html"}
+,{"title":"Arroz com passas","category":"Acompanhamentos","author":"Pietro","htmlfile":"arroz-com-passas.html"}
+,{"title":"Berinjela de forno","category":"Pratos principais","author":"Beatriz","htmlfile":"berinjela-de-forno.html"}
+,{"title":"Biscoitos amanteigados","category":"Biscoitos","author":"Beatriz","htmlfile":"biscoitos-amanteigados.html"}
+,{"title":"Biscoitos de Gengibre de Natal (Gingerbread)","category":"Biscoitos","source":"https://www.receitasnestle.com.br/receitas/receita-biscoitos-gingerbread","htmlfile":"biscoitos-gingerbread.html"}
+,{"title":"Bolo de chocolate com calda e ganache","category":"Bolos","htmlfile":"bolo-chocolate-com-calda-e-ganache.html"}
+,{"title":"Bolo de chocolate simples","category":"Bolos","source":"https://www.tudogostoso.com.br/receita/309779-bolo-de-chocolate-simples.html","htmlfile":"bolo-de-chocolate-simples.html"}
+,{"title":"Bolo de laranja fofinho com calda","category":"Bolos","source":"https://receitas.globo.com/tipos-de-prato/bolos/bolo-fofo-de-laranja-com-calda-540ed8004d388552cd000044.ghtml","htmlfile":"bolo-de-laranja-fofinho-globo.html"}
+,{"title":"Bolo de maçã de liquidificador","category":"Bolos","source":"https://www.tudogostoso.com.br/receita/109535-bolo-de-maca-de-liquidificador-o-melhor-do-mundo.html","htmlfile":"bolo-de-maca-liquidificador.html"}
+,{"title":"Brigadeiro cremoso","category":"Doces","author":"Beatriz","htmlfile":"brigadeiro-cremoso.html"}
+,{"title":"Brigadeiro do Pietro","category":"Doces","author":"Pietro","htmlfile":"brigadeiro-do-pietro.html"}
+,{"title":"Brigadeiro para enrolar (não muito doce)","category":"Doces","author":"Beatriz","htmlfile":"brigadeiro-para-enrolar.html"}
+,{"title":"Caipirinha Jorge Amado","category":"Bebidas","author":"Beatriz","htmlfile":"caipirinha-jorge-amado.html"}
+,{"title":"Carê de frango com legumes","category":"Pratos principais","author":"Pietro","htmlfile":"care-de-frango-com-legumes.html"}
+,{"title":"Carne de panela com legumes","category":"Pratos principais","author":"Beatriz","htmlfile":"carne-de-panela-com-legumes.html"}
+,{"title":"Cenouras Hasselback","category":"Acompanhamentos","source":"https://yatnamarayoga.blogspot.com/2018/07/cenouras-hasselback.html","htmlfile":"cenouras-hasselback.html"}
+,{"title":"Chocolate quente cremoso","category":"Bebidas","source":"https://www.tudogostoso.com.br/receita/130871-chocolate-quente-cremoso.html","htmlfile":"chocolate-quente-cremoso.html"}
+,{"title":"Cookies de chocolate — Paola Carosella","category":"Biscoitos","source":"https://paolacarosella.com.br/receitas/cookies-de-chocolate/","author":"Paola Carosella","htmlfile":"cookies-de-chocolate-paola-carosella.html"}
+,{"title":"Creme de espinafre","category":"Acompanhamentos","source":"https://www.tudogostoso.com.br/receita/77560-creme-de-espinafre-facil-e-divino.html","htmlfile":"creme-de-espinafre.html"}
+,{"title":"Creme de tapioca com milho verde (Curau)","category":"Sobremesas","author":"Dona Lourdinha (Vó)","htmlfile":"creme-de-tapioca-com-milho-verde.html"}
+,{"title":"Curau cremoso de milho","category":"Doces","author":"Beatriz","htmlfile":"curau-cremoso-de-milho.html"}
+,{"title":"Esfiha aberta caseira","category":"Salgados","author":"Beatriz","htmlfile":"esfiha-aberta-caseira.html"}
+,{"title":"Feijão","category":"Caldos e Sopas","veggie":"✓","description":"Feijão carioca para o dia a dia, normalmente acompanhado de arroz.","salty":"✓","htmlfile":"feijao.html","size":"10 porções","time":"1h 30 min"}
+,{"title":"Glacê para decorar biscoitos","category":"Coberturas","author":"Beatriz","htmlfile":"glace-para-decorar-biscoitos.html"}
+,{"title":"Glacê real espesso","category":"Coberturas","author":"Beatriz","htmlfile":"glace-real-espesso.html"}
+,{"title":"Guacamole","category":"Acompanhamentos","author":"Beatriz","htmlfile":"guacamole.html"}
+,{"title":"Hambúrguer caseiro de forno","category":"Pratos principais","author":"Beatriz","htmlfile":"hamburguer-caseiro-de-forno.html"}
+,{"title":"Kibe de forno com requeijão","category":"Pratos principais","author":"Beatriz","htmlfile":"kibe-de-forno-com-requeijao.html"}
+,{"title":"Lasanha à bolonhesa e molho branco","category":"Massas","source":"https://www.receitasnestle.com.br/receitas/lasanha-a-bolonhesa","htmlfile":"lasanha-a-bolonhesa-e-molho-branco.html"}
+,{"title":"Macarrão carbonara","category":"Massas","source":"https://www.receitasnestle.com.br/receitas/macarrao-carbonara","htmlfile":"macarrao-carbonara-nestle.html"}
+,{"title":"Mate com rum — versão do Rio","category":"Bebidas","author":"Beatriz","htmlfile":"mate-com-rum-versao-rio.html"}
+,{"title":"Mingau de aveia","category":"Café da manhã","author":"Beatriz","htmlfile":"mingau-de-aveia.html"}
+,{"title":"Molho branco simples","category":"Molhos","source":"https://www.tudogostoso.com.br/receita/44199-molho-branco-simples.html","htmlfile":"molho-branco-simples.html"}
+,{"title":"Molho César com iogurte","category":"Molhos","author":"Beatriz","htmlfile":"molho-cesar-com-iogurte.html"}
+,{"title":"Pavê de chocolate","category":"Sobremesas","source":"https://www.tudogostoso.com.br/receita/15939-pave-de-chocolate.html","htmlfile":"pave-de-chocolate.html"}
+,{"title":"Pretzel doce — Amo Pão Caseiro","category":"Pães","source":"https://amopaocaseiro.com.br/receita/pretzel-doce/","htmlfile":"pretzel-doce-amo-pao-caseiro.html"}
+,{"title":"Pretzel doce da Elena","category":"Pães","author":"Elena","htmlfile":"pretzel-doce-elena.html"}
+,{"title":"Pudim de leite sem furinhos","category":"Sobremesas","source":"https://panelinha.com.br/receita/pudim-de-leite-liso","htmlfile":"pudim-de-leite-sem-furinhos.html"}
+,{"title":"Sopa de legumes na pressão","category":"Sopas","author":"Pietro","htmlfile":"sopa-de-legumes-na-pressao.html"}
+,{"title":"Strogonoff de frango","category":"Aves","description":"Ingredientes transcritos da captura; preparo resumido e reconstruído, pois não aparece na imagem.","htmlfile":"strogonoff-de-frango.html"}
+,{"title":"Tiramisù com mascarpone","category":"Sobremesas","source":"https://feed.continente.pt/receitas/tiramisu-com-queijo-mascarpone","htmlfile":"tiramisu-com-mascarpone.html"}
 ]
