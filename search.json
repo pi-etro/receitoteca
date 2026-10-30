@@ -29,7 +29,7 @@
 ,{"title":"Hambúrguer caseiro de forno","category":"Pratos principais","author":"Beatriz","htmlfile":"hamburguer-caseiro-de-forno.html"}
 ,{"title":"Kibe de forno com requeijão","category":"Pratos principais","author":"Beatriz","htmlfile":"kibe-de-forno-com-requeijao.html"}
 ,{"title":"Lasanha à bolonhesa e molho branco","category":"Massas","source":"https://www.receitasnestle.com.br/receitas/lasanha-a-bolonhesa","htmlfile":"lasanha-a-bolonhesa-e-molho-branco.html"}
-,{"title":"Macarrão carbonara","category":"Massas","source":"https://www.receitasnestle.com.br/receitas/macarrao-carbonara","htmlfile":"macarrao-carbonara.html"}
+,{"title":"Macarrão carbonara","category":"Massas","source":"https://www.receitasnestle.com.br/receitas/macarrao-carbonara","salty":"✓","htmlfile":"macarrao-carbonara.html","size":"2 porções","time":"30 min"}
 ,{"title":"Mate com rum — versão do Rio","category":"Bebidas","author":"Beatriz","htmlfile":"mate-com-rum-versao-rio.html"}
 ,{"title":"Mingau de aveia","category":"Café da manhã","author":"Beatriz","htmlfile":"mingau-de-aveia.html"}
 ,{"title":"Molho branco simples","category":"Molhos","source":"https://www.tudogostoso.com.br/receita/44199-molho-branco-simples.html","htmlfile":"molho-branco-simples.html"}
@@ -38,6 +38,7 @@
 ,{"title":"Pretzel doce — Amo Pão Caseiro","category":"Pães","source":"https://amopaocaseiro.com.br/receita/pretzel-doce/","htmlfile":"pretzel-doce-amo-pao-caseiro.html"}
 ,{"title":"Pretzel doce da Elena","category":"Pães","author":"Elena","htmlfile":"pretzel-doce-elena.html"}
 ,{"title":"Pudim de leite sem furinhos","category":"Sobremesas","source":"https://panelinha.com.br/receita/pudim-de-leite-liso","htmlfile":"pudim-de-leite-sem-furinhos.html"}
+,{"title":"Shoyu Lámen","category":"Massas","author":"Pietro","salty":"✓","htmlfile":"shoyu-lamen.html","size":"6 porções","time":"2 dias (incluindo descanso)"}
 ,{"title":"Sopa de legumes na pressão","category":"Sopas","author":"Pietro","htmlfile":"sopa-de-legumes-na-pressao.html"}
 ,{"title":"Strogonoff de frango","category":"Aves","htmlfile":"strogonoff-de-frango.html"}
 ,{"title":"Tiramisù com mascarpone","category":"Sobremesas","source":"https://feed.continente.pt/receitas/tiramisu-com-queijo-mascarpone","htmlfile":"tiramisu-com-mascarpone.html"}
