@@ -25,4 +25,4 @@ source: "https://receitas.globo.com/tipos-de-prato/bolos/bolo-fofo-de-laranja-co
 
 ---
 
-> **Observação:** Ajuste do grupo: fazer em forma menor. Verifique se o volume da massa é compatível com o tamanho usado.
+> **Observação:** Fazer em forma menor. Verifique se o volume da massa é compatível com o tamanho usado.

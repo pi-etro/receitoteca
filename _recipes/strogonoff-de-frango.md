@@ -1,7 +1,6 @@
 ---
 title: "Strogonoff de frango"
 category: "Aves"
-description: "Ingredientes transcritos da captura; preparo resumido e reconstruído, pois não aparece na imagem."
 ---
 
 * `400 g` tiras de frango
