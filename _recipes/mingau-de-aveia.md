@@ -1,6 +1,6 @@
 ---
 title: Mingau de aveia
-category: Café da manhã
+category: Cafe da manha
 author: Beatriz
 ---
 

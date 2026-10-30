@@ -1,6 +1,6 @@
 ---
 title: "Pretzel doce da Elena"
-category: "Pães"
+category: "Paes"
 author: "Elena"
 ---
 

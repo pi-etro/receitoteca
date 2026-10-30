@@ -1,6 +1,6 @@
 ---
 title: "Pretzel doce — Amo Pão Caseiro"
-category: "Pães"
+category: "Paes"
 source: "https://amopaocaseiro.com.br/receita/pretzel-doce/"
 ---
 
