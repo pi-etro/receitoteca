@@ -7,8 +7,7 @@ time: 2 dias (incluindo descanso)
 salty: ✓
 ---
 
-Caldo:
-
+* Caldo:
 * `1,5 litro` Água
 * `8 unidades` Cogumelos secos (shiitake)
 * `3 pedaços` Alga kombu
@@ -18,8 +17,9 @@ Caldo:
 * `A gosto` Sal
 * `1 pitada` Ajinomoto
 
-Chashu:
+---
 
+* Chashu:
 * `850 g` Barriga de porco
 * `1/2 xícara` Shoyu
 * `1/3 xícara` Saquê mirin
@@ -28,8 +28,9 @@ Chashu:
 * `5 dentes` Alho
 * `A gosto` Talos de cebolinha
 
-Lamen:
+---
 
+* Lamen:
 * `500 g` Macarrão para lamen
 * `4 unidades` Ovos
 * `A gosto` Cebolinha picada
@@ -61,11 +62,7 @@ Lamen:
 
 ---
 
-> No dia seguinte, coloque em uma panela a água do molho dos cogumelos junto com os cogumelos e a alga kombu. Quando levantar fervura, abaixe o fogo e cozinhe por aproximadamente 10 minutos.
-
----
-
-> Adicione os peixes secos ou o katsuobushi e cozinhe por mais 10 minutos em fogo baixo. Desligue o fogo e retire todos os sólidos. Reserve os cogumelos para utilizar na montagem do lamen.
+> No dia seguinte, coloque em uma panela a água do molho dos cogumelos junto com os cogumelos, alga kombu e adicione o peixe seco. Quando levantar fervura, abaixe o fogo e cozinhe por aproximadamente 10 minutos. Desligue o fogo e retire todos os sólidos. Reserve os cogumelos para utilizar na montagem do lamen.
 
 ---
 
